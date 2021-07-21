@@ -1,0 +1,17 @@
+body{
+	background-image: url(Images/goldengate.jpg);
+	background-size:cover;
+}
+h1,h2,h3,h4{
+	color:#FF8033 ;
+	font-family: 'Girassol', cursive;
+
+}
+h2{
+	text-align: center;
+	font-size: 40px;
+}
+#button4{
+	font-family: 'Girassol', cursive;
+
+}
